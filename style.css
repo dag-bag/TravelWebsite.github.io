@@ -762,4 +762,6 @@ textarea {
   .container .box {
     margin: 0 0.8rem;
   }
+  #services .container {
+margin: 0 0;
 }
