@@ -583,7 +583,7 @@ header .search-bar-container label {
 #review {
   width: 80%;
   margin: auto;
-  overflow: hidden;
+      overflow: hidden;
 }
 #review .box {
   padding: 2rem;
@@ -655,7 +655,7 @@ textarea {
 /*  BRAND SECTION STARTS */
 
 .brand-container {
-  overflow: hidden;
+      overflow: hidden;
   text-align: center;
 }
 /*  BRAND SECTION ENDS */
